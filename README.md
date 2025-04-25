@@ -18,7 +18,7 @@ Aqui estão algumas capturas de tela do projeto em funcionamento:
 - HTML/CSS
 - JavaScript
 
-## Como Rodar o Projeto 🚀
+## Como Rodar o Projeto 🔧
 
 ### 1. Clone o repositório
 
