@@ -24,3 +24,22 @@ Aqui estão algumas capturas de tela do projeto em funcionamento:
 
 ```bash
 git clone https://github.com/di0gosilva/todo-list.git
+```
+
+### 2. Navegue até a pasta do projeto
+
+```bash
+cd todo-list
+```
+
+### 3. Instale as dependências
+
+```bash
+npm install
+```
+
+### 4. Rode o projeto localmente
+
+```bash
+npm start
+```
