@@ -11,13 +11,13 @@ Este projeto tem como objetivo ser uma aplicação de lista de tarefas onde o us
 ## Demonstração 📸
 Aqui estão algumas capturas de tela do projeto em funcionamento:
 
-### Todas as tarefas 📁
+### 📁 Todas as tarefas
 ![Tela do Todo List com todas as tarefas](./assets/todas.png)
 
-### Tarefas pendentes 🆕
+### 🆕 Tarefas pendentes
 ![Tela do Todo List com as tarefas pendentes](./assets/pendentes.png)
 
-### Tarefas concluídas ✅
+### ✅ Tarefas concluídas
 ![Tela do Todo List com as tarefas concluídas](./assets/concluidas.png)
 
 ## Tecnologias Utilizadas ⚙️
