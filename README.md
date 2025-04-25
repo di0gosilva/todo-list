@@ -1,4 +1,4 @@
-#📝 Todo List 
+📝# Todo List 
 
 **Este é um projeto simples de uma lista de tarefas (Todo List) feito com [React](https://reactjs.org/).**
 
