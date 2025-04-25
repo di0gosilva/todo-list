@@ -2,7 +2,7 @@
 
 **Este é um projeto simples de uma lista de tarefas (Todo List) feito com [React](https://reactjs.org/).**
 
-## Objetivo 🎯
+## Objetivo do Projeto 🎯
 Este projeto tem como objetivo ser uma aplicação de lista de tarefas onde o usuário pode:
 - Adicionar tarefas 🆕
 - Marcar tarefas como concluídas ✅
