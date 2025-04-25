@@ -13,7 +13,7 @@ Aqui estão algumas capturas de tela do projeto em funcionamento:
 
 ![Tela do Todo List](sua-imagem-aqui.png)
 
-## Tecnologias Utilizadas 🧑‍💻
+## Tecnologias Utilizadas ⚙️
 - React ⚛️
 - HTML/CSS
 - JavaScript
